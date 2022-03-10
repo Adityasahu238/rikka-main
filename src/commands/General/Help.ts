@@ -45,7 +45,7 @@ export default class Command extends BaseCommand {
             let text = `
 ╭─「(づ￣ 3￣)づ」
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: Yᴏᴛsᴜʙᴀ
+│⋊ ℕ𝕒𝕞𝕖: Rikka
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
 │⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
 │⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: http://gg.gg/Rikka-support_group
