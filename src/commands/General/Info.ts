@@ -41,7 +41,7 @@ export default class Command extends BaseCommand {
 		}
 		this.run = async (M: typings.ISimplifiedMessage): Promise<void> => {
 			const chitoge =
-				"https://c.tenor.com/oKD3TbJKgIEAAAAM/yuuto-rikka-takanashi.mp4";
+				"https://c.tenor.com/hudeKaLfGm0AAAPo/kawai.mp4";
 			return void this.client.sendMessage(
 				M.from,
 				{ url: chitoge },
