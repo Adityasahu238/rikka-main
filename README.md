@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://coolwallpapers.me/2884103-anime-girls-artwork-eye-patch-tokisaki-kurumi-date-a-live-gun.html"><img src="https://i.ibb.co/QmZ5CMt/848724.jpg" alt="Kurumi" border="0"></a>
+<a href="https://coolwallpapers.me/2876789-chuunibyou-demo-koi-ga-shitai-takanashi-rikka-heterochromia.html"><img src="https://i.ibb.co/0hpxWBb/6229d7814e50f.jpg" alt="rikka" border="0"></a>
 
 # **Yotsuba : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
