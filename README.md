@@ -59,5 +59,6 @@ for more information.
 ## 🎗Help
 Please give this repo a star if you like the bot
  
+## 📫 Youtube channel for gaming
 
-
+# [![Youtube Channel](https://img.shields.io/youtube/channel/views/UCQsSd94FAl6WhKe4XfTId-Q?style=social)](https://www.youtube.com/channel/UCQsSd94FAl6WhKe4XfTId-Q)
