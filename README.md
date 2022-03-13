@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://coolwallpapers.me/2876789-chuunibyou-demo-koi-ga-shitai-takanashi-rikka-heterochromia.html"><img src="https://i.ibb.co/0hpxWBb/6229d7814e50f.jpg" alt="Rikka" border="0"></a>
+<a href="https://ibb.co/gygsGLW"><img src="https://s1.zerochan.net/Kitagawa.Marin.600.3560571.jpg" alt="Marin" border="0"></a>
 
-# **Rikka : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+# **Marin-Kitagawa : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -13,7 +13,7 @@
 
 </div>
 <div align="center">
-<h1>Rikka is full of Anime and Nsfw and many more features</h1>
+<h1>Marin is full of Anime and Nsfw and many more features</h1>
 </div>
 
 ## ✨ Highlights
@@ -25,15 +25,14 @@
 -   Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best
     WhatsApp Library Out There)
 
-## 💻 Deploy/Hosting Guide
 
--   Section Moved to
-    [Chitoge-Guides](https://github.com/ShineiIchijo/Chitoge-Guides/blob/main/README.md)
 
-## 🍥 Features of the Repo
 
--   To view all features, click
-    here➡️[Chitoge_featuresList.md](https://github.com/ShineiIchijo/Chitoge/blob/main/Features.md)
+
+
+
+
+
 
 ## 💪 Contribution
 
